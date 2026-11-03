@@ -1,4 +1,4 @@
-package com.v3.class_planner;
+package com.sap.class_planner;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

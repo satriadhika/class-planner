@@ -1,4 +1,4 @@
-package com.v3.class_planner;
+package com.sap.class_planner;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
